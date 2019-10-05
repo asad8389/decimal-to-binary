@@ -7,7 +7,7 @@ int main()
     printf("enter a number:\n");
     scanf("%d",&n);
 
-    printf("binary is %d \n",binary(n));
+    printf("binary conversion of %d is %d \n",n,binary(n));
 
 
 }
